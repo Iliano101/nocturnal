@@ -256,8 +256,8 @@
     background-color: var(--mainColor);
     border-radius: 100%;
     z-index: -2;
-    animation: pulse 2s infinite;
-    will-change: transform;
+    animation: var(--unread-animation) 2s infinite;
+    will-change: transform
 }
 
 #app-mount .unread_d8bfb3:hover:after {

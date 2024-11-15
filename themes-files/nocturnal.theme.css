@@ -59,5 +59,11 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
     --rs-phone-visible: block;
     --rs-phone-color: var(--rs-online-color);
 
+    /* Unread Animation :
+    none -> static point.
+    pulse -> pulsating point
+    */
+    --unread-animation: pulse;
+
     --customFont: "gg sans", sans-serif;
 }
