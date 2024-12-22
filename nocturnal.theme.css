@@ -7,7 +7,7 @@
 * @source https://github.com/Iliano101/nocturnal
 * @website https://betterdiscord.app/theme/Nocturnal
 */
-@import url("https://raw.githubusercontent.com/Iliano101/nocturnal/refs/heads/master/themes-cores/nocturnal.css");
+@import url("https://xcruxiex.github.io/themes/themes-cores/nocturnal.css");
 /*
 
 
@@ -60,7 +60,7 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
     --rs-phone-color: var(--rs-online-color);
 
     /* Unread Animation :
-    none -> static point.
+    none -> static point
     pulse -> pulsating point
     */
     --unread-animation: none;
