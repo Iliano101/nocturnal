@@ -3517,9 +3517,22 @@ button.button_adca65
     background: transparent;
 }
 
-.container_a47d49 {
+.container_a47d49{
     background-color: var(--backgroundColor02);
 }
-.container_a47d49:hover {
+
+.container_a47d49:hover{
     background-color: var(--backgroundColor01);
+}
+
+.footer_d71945{
+    display: none;
+}
+
+.scrollerContainer_c90ddb{
+    background-color: var(--backgroundColor01);
+}
+
+.theme-dark .bannedUser_c90ddb{
+    background-color: var(--backgroundColor02)
 }
